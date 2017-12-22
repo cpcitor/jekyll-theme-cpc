@@ -1,4 +1,14 @@
 @font-face {
+  font-family: 'amstrad';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/amstrad/amstrad_cpc464.eot');
+  src: url('../fonts/amstrad/amstrad_cpc464.woff') format('woff'),
+       url('../fonts/amstrad/amstrad_cpc464.ttf') format('truetype'),
+       url('../fonts/amstrad/amstrad_cpc464.svg#amstrad') format('svg');
+}
+
+@font-face {
   font-family: 'Noto Sans';
   font-weight: 400;
   font-style: normal;
